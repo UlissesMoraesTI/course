@@ -1,5 +1,7 @@
 # Minha Trajetória
 
+- Bacharel em Sistemas de Informação
+
 - 25 Anos Atuando na área de Projetos de Tecnologia da informação  
 
 - Vivência na área Bancária - Mercado Financeiro  
