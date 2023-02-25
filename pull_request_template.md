@@ -4,6 +4,14 @@
 
 - Vivência na área Bancária - Mercado Financeiro  
 
+- Sempre trabalhei com MAINFRAME
+
+- Estou em transição de carreira Backend JAVA
+
+# Objetivo 
+
+- ser Full-Stack com Angular no Front-end
+
 # Quem sou eu?
 
 -  Casado
